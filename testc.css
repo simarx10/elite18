@@ -448,6 +448,9 @@ background: linear-gradient(to right, #5691c8, #457fca);
 @media(max-width: 1080px) {
 	
 	.navbar {
+		position: fixed;
+		left: 0px;
+		right: 0px;
 		padding: 50px 0px 50px 0px;
 	}
 
@@ -476,7 +479,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 		white-space: nowrap;
 		position; absolute;
 		top: 1000px;
-		left: 200px;
+		left: 300px;
 		
 	}
 	
@@ -486,7 +489,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	}
 	
 	.indexbody {
-		background: #72a5f9;
+		background: #lightblue;
 	}
 	
 }
