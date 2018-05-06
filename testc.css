@@ -455,8 +455,8 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	}
 
 	.navbar li {
-		padding-right: 14px;
-		padding-left: 14x;
+		padding-right: 10px;
+		padding-left: 10x;
 
 	}
 
@@ -478,8 +478,8 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	.button {
 		white-space: nowrap;
 		position; absolute;
-		top: 1000px;
-		left: 300px;
+		top: 800px;
+		left: 200px;
 		
 	}
 	
@@ -489,7 +489,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	}
 	
 	.indexbody {
-		background: #lightblue;
+		background: #6aa2fc;
 	}
 	
 }
