@@ -12,11 +12,8 @@ header {
 	.navbar {
 
 	background-color: white;
-<<<<<<< HEAD
 	position: absolute;
-=======
 	position: fixed;
->>>>>>> 1633c4d9dcb031bb0decf667aa8c20db34a66cf9
 	left: 0px;
 	right: 0px;
 	list-style: none;
