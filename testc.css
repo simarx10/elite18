@@ -57,7 +57,7 @@ header {
 h1 {
 	position: absolute;
 	top: 250px;
-	left: 30%;
+	left: 22%;
 	color: white;
 	text-align: center;
 }
@@ -76,7 +76,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 .button {
 	position: absolute;
 	top: 360px;
-	left: 520px;
+	left: 38%;
 }
 
 .btn {
