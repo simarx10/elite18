@@ -12,8 +12,11 @@ header {
 	.navbar {
 
 	background-color: white;
+
 	position: absolute;
+
 	position: fixed;
+
 	left: 0px;
 	right: 0px;
 	list-style: none;
@@ -490,4 +493,3 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	}
 	
 }
-
