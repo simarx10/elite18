@@ -469,7 +469,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 		position: absolute;
 		
 		top: 700px;
-		left: 22%;
+		left: 15%;
 		white-space: nowrap;
 		font-size: 40px; 
 		text-align: center;
@@ -478,8 +478,8 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	.button {
 		white-space: nowrap;
 		position; absolute;
-		top: 900px;
-		left: 38%;
+		top: 850px;
+		left: 40%;
 		
 	}
 	
