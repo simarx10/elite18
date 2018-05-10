@@ -111,13 +111,8 @@ background: linear-gradient(to right, #5691c8, #457fca);
 
 .left {
 	left: 0;
-<<<<<<< HEAD
 	background-color: #40bbef;
-=======
-	background-color: #0a71d8;
->>>>>>> 3e4e89874edfa98ac2515f91dd762077f1f67922
-	
-}
+	}
 
 .right {
 	right: 0;
