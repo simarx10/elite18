@@ -136,7 +136,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 
 }
 
-.centered h4{
+.centered h4 {
 	position: relative;
 	top: 25px;
 	font-size: 25px;
@@ -429,21 +429,21 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	float: left;
 	position: absolute;
 	top: 70px;
-	left: 100px;
+	left: 5%;
 }
 
 .silver {
 	float: left;
 	position: absolute;
 	top: 70px;
-	left: 500px;
+	left: 35%;
 }
 
 .gold {
 	float: left;
 	position: absolute;
 	top: 70px;
-	left: 900px;
+	left: 65%;
 }
 
 @media(max-width: 1080px) {
