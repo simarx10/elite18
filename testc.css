@@ -498,4 +498,8 @@ background: linear-gradient(to right, #5691c8, #457fca);
 		width: 100%;
 	}
 	
+	.split2 {
+		height: 50%;
+		width: 100%;
+	}
 }
