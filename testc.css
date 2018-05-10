@@ -429,21 +429,21 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	float: left;
 	position: absolute;
 	top: 70px;
-	left: 5%;
+	left: 8%;
 }
 
 .silver {
 	float: left;
 	position: absolute;
 	top: 70px;
-	left: 35%;
+	left: 38%;
 }
 
 .gold {
 	float: left;
 	position: absolute;
 	top: 70px;
-	left: 65%;
+	left: 68%;
 }
 
 @media(max-width: 1080px) {
