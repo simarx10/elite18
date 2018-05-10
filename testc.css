@@ -471,7 +471,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 		position: absolute;
 		
 		top: 700px;
-		left: 15%;
+		left: 10%;
 		white-space: nowrap;
 		font-size: 40px; 
 		text-align: center;
@@ -491,7 +491,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	}
 	
 	.indexbody {
-		background: #276bd8;
+		background: #0c6ed1;
 	}
 	
 }
