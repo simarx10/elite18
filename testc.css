@@ -492,5 +492,10 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	.indexbody {
 		background: #0c6ed1;
 	}
+
+	.split {
+		height: 50%;
+		width: 100%;
+	}
 	
 }
