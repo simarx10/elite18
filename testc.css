@@ -463,9 +463,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 @media(max-width: 1080px) {
 	
 	.navbar {
-		position: fixed;
-		left: 0px;
-		right: 0px;
+	
 		padding: 50px 0px 50px 0px;
 	}
 
