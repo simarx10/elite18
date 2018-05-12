@@ -2,21 +2,20 @@
 	margin: 0;
 	padding: 0;
 	font-family: "Montserrat", sans-serif;
+
 }
 
 	
 
 header { 
 	width: 100%;
+	
 }
+	
 	.navbar {
 
 	background-color: white;
-
 	position: absolute;
-
-	position: fixed;
-
 	left: 0px;
 	right: 0px;
 	list-style: none;
@@ -27,8 +26,9 @@ header {
 
 .navbar li {
 	display: inline-block;
-	padding-right: 75px;
-	padding-left: 75px;
+	padding-right: 5%;
+	padding-left: 5%;
+	transform: translate(-5%,-5%);
 	transition: all .25s ease;
 	font-weight: bold;
 	margin: 0;
@@ -53,30 +53,40 @@ header {
 	border-bottom: 1px solid #66c2ff;
 }
 
+.logo {
+	float: left;
+	text-decoration: none;
+	margin-left: 55px;
+	padding: 10px;
+}
 
 h1 {
 	position: absolute;
-	top: 250px;
-	left: 22%;
+	top:40%;
+	left: 50%;
+	transform: translate(-50%,-40%);
 	color: white;
 	text-align: center;
 }
 
 
 .indexbody {
-
-background: #457fca;  /* fallback for old browsers */
+       background: #457fca;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #5691c8, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #5691c8, #457fca);
  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+,
-  Safari 7+ */   
-    	overflow: hidden;	
+  Safari 7+ */ 
+
+       
+    	overflow: hidden;
+	
 }
 
 .button {
 	position: absolute;
-	top: 360px;
-	left: 38%;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%,-60%);
 }
 
 .btn {
@@ -88,6 +98,9 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	text-transform: uppercase;
 	background-color: #61ACFF;
 	font-weight: bold;
+
+
+
 }
 
 .btn-one:hover {
@@ -111,12 +124,11 @@ background: linear-gradient(to right, #5691c8, #457fca);
 
 .left {
 	left: 0;
-	background-color: #457fca;
-	}
+	
+}
 
 .right {
 	right: 0;
-	background-color: #0e4d8c;
 	
 }
 
@@ -136,7 +148,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 
 }
 
-.centered h4 {
+.centered h4{
 	position: relative;
 	top: 25px;
 	font-size: 25px;
@@ -352,7 +364,8 @@ background: linear-gradient(to right, #5691c8, #457fca);
 }
 
 .container3 .column {
-	width: calc(33.3% - 30px);	
+	width: calc(33.3% - 30px);
+	
 	padding: 0 0 20px;
 	margin: 0 15px;
 	box-sizing: border-box;
@@ -425,6 +438,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	text-transform: uppercase;
 }
 
+
 .bronze {
 	float: left;
 	position: absolute;
@@ -455,22 +469,13 @@ background: linear-gradient(to right, #5691c8, #457fca);
 		padding: 50px 0px 50px 0px;
 	}
 
-	.navbar li {
-		padding-right: 10px;
-		padding-left: 10px;
-
-	}
-
+	
 	.navbar a {
 		font-size: 35px;
 	}
 	
 	h1 {
 
-		position: absolute;
-		
-		top: 700px;
-		left: 10%;
 		white-space: nowrap;
 		font-size: 40px; 
 		text-align: center;
@@ -478,9 +483,6 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	
 	.button {
 		white-space: nowrap;
-		position; absolute;
-		top: 850px;
-		left: 40%;
 		
 	}
 	
@@ -491,6 +493,7 @@ background: linear-gradient(to right, #5691c8, #457fca);
 	
 	.indexbody {
 		background: #0c6ed1;
+		font-size: 35px;
 	}
 
 	.split {
