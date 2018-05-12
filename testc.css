@@ -466,9 +466,9 @@ background: linear-gradient(to right, #5691c8, #457fca);
 }
     h1 {
 	position: relative;
-	top:40%;
+	top:30%;
 	left: 50%;
-	transform: translate(-50%,-40%);
+	transform: translate(-50%,-30%);
 	color: white;
 	text-align: center;
 	font-size: 25px;
@@ -488,9 +488,9 @@ background: linear-gradient(to right, #5691c8, #457fca);
 
 .button {
 	position: relative;
-	top: 40%;
+	top: 30%;
 	left: 50%;
-	transform: translateY(-40%);
+	transform: translateY(-30%);
 	transform: translateX(-35%);
 
 }
